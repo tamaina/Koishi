@@ -1,33 +1,38 @@
 @charset "UTF-8";
 
-// WebFont GenShinGothic
+// 游ゴシック
+
 @font-face {
-	font-family: "GenShinGothic-w";
-	src: url(#{$font-family-webfont-url}fonts/GenShinGothic-Light.eot);
-	src: url(#{$font-family-webfont-url}fonts/GenShinGothic-Light?#iefix.eot) format("embedded-opentype"),
-		url(#{$font-family-webfont-url}fonts/GenShinGothic-Light.woff2) format("woff2"),
-		url(#{$font-family-webfont-url}fonts/GenShinGothic-Light.woff) format("woff"),
-		url(#{$font-family-webfont-url}fonts/GenShinGothic-Light.ttf) format("truetype");
-	font-weight: 200;
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 100;
 }
 @font-face {
-	font-family: "GenShinGothic-w";
-	src: url(#{$font-family-webfont-url}fonts/GenShinGothic-Regular.eot);
-	src: url(#{$font-family-webfont-url}fonts/GenShinGothic-Regular.eot?#iefix) format("embedded-opentype"),
-	url(#{$font-family-webfont-url}fonts/GenShinGothic-Regular.woff2) format("woff2"),
-	url(#{$font-family-webfont-url}fonts/GenShinGothic-Regular.woff) format("woff"),
-	url(#{$font-family-webfont-url}fonts/GenShinGothic-Regular.ttf) format("truetype");
-	font-weight: 400;
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Light");
+  font-weight: 200;
 }
 @font-face {
-	font-family: "GenShinGothic-w";
-	src: url(#{$font-family-webfont-url}fonts/GenShinGothic-Bold.eot);
-	src: url(#{$font-family-webfont-url}fonts/GenShinGothic-Bold.eot?#iefix) format("embedded-opentype"),
-	url(#{$font-family-webfont-url}fonts/GenShinGothic-Bold.woff2) format("woff2"),
-	url(#{$font-family-webfont-url}fonts/GenShinGothic-Bold.woff) format("woff"),
-	url(#{$font-family-webfont-url}fonts/GenShinGothic-Bold.ttf) format("truetype");
-	font-weight: 700;
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Regular");
+  font-weight: 300;
 }
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Regular");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic Medium");
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Yu Gothic";
+  src: local("Yu Gothic DemiBold");
+  font-weight: 700;
+}
+
 
 // WebFont mgenplus p
 @font-face {

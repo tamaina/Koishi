@@ -16,7 +16,7 @@
 4. 源真ゴシックのライセンスを明示するようにした。
 5. テキストボックス系```input```選択時の```box-shadow```を復活させた。
 6. Github Pagesを利用したcdnを作った。
-  - **指定例**:```<link href="https://cdn.tmin.cf/chen/4.0.0-alpha.4/css/bootstrap.min.css" rel="stylesheet">```
+  - **指定例**:```<link href="https://cdn.tmin.cf/koishi/4.0.0-alpha.4/css/bootstrap.min.css" rel="stylesheet">```
   - Readmeの雛形もCDNを利用するように誘導する。
 
 ### 【今後の展望】
