@@ -15,9 +15,7 @@
 
 通常の[Bootstrap](http://getbootstrap.com/)では、日本語のフォント指定や文字サイズは最適とはいえません。"Koishi"のベースとなった["Honoka"](honokak.osaka)は、そんなBootstrapをベースに、日本語表示に適したフォント指定や、文字サイズに関するコードを追記したBootstrapテーマの一つです。
 
-"Koishi"では、日本語JIS第2水準漢字まで対応のウェブフォントが付加されています。(英字フォントもちゃっかりM+ pに置き換わっています。)
-
-きれいに日本語を表示したいけれど、游ゴシックが嫌いな方は、どうぞお使いください。
+"Koishi"では、英字フォントがM+になっています。
 
 名前に意味は特にないです。そういう風潮だったので適当に東方Projectからキャラクターの名前を選んだだけです。
 
@@ -123,12 +121,10 @@ WebFontを利用したくない場合は、fork元の[Honoka](http://honokak.osa
 
 [MIT License](LICENSE)
 
-但し源真ゴシック(GenShinGothicから始まるファイル群)は[SIL Open Font License 1.1](https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1)
-
 ## Author
 
  * windyakin ([http://windyakin.net](http://windyakin.net/))
 
 ## Editor
 
- * tamaina ([http://tmin.cf](https://tamaina.github.io/))
+ * tamaina ([http://tmin.cf](https://tmin.cf/))
