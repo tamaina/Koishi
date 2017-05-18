@@ -5,9 +5,9 @@
 [![devDependency Status](https://david-dm.org/tamaina/Koishi/v4-dev/dev-status.svg)](https://david-dm.org/tamaina/Koishi/v4-dev?type=dev)
 [![The MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[https://koishi.tmin.cf/v4-alpha.4/](https://koishi.tmin.cf/v4-alpha.4/)
+[https://koishi.tmin.xyz/v4-alpha.4/](https://koishi.tmin.xyz/v4-alpha.4/)
 
-[![Koishi](docs/assets/img/sample.png)](https://koishi.tmin.cf/v4-alpha.4/)
+[![Koishi](docs/assets/img/sample.png)](https://koishi.tmin.xyz/v4-alpha.4/)
 
 "Koishi" は日本語も美しく表示できるBootstrapテーマです。
 
@@ -21,7 +21,7 @@
 
 ## Live Demo
 
- * [日本語デモ: https://koishi.tmin.cf/v4-alpha.4/bootstrap.html](https://tamaina.github.io/Koishi/bootstrap.html) 
+ * [日本語デモ: https://koishi.tmin.xyz/v4-alpha.4/bootstrap.html](https://koishi.tmin.xyz/v4-alpha.4/bootstrap.html) 
 
 ## Getting Started
 
@@ -43,7 +43,7 @@ Bootstrapをつかってウェブページを作成する際に基本となるHT
     <title>Bootstrap 雛形</title>
 
     <!-- BootstrapのCSS -->
-    <link href="https://cdn.tmin.cf/koishi/4.0.0-alpha.4/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
   </head>
   <body>
     <h1>Hello, world!</h1>
@@ -110,4 +110,4 @@ master/
 
 ## Editor
 
- * tamaina ([http://tmin.cf](https://tmin.cf/))
+ * tamaina ([http://tmin.xyz](https://tmin.xyz/))
