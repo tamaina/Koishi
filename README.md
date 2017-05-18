@@ -52,20 +52,9 @@ Bootstrapをつかってウェブページを作成する際に基本となるHT
     <!-- 「①jquery(v3系)」「②Tether」「③bootstrap(.min).js」の順で読み込みます。 -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
-    <script src="https://cdn.tmin.cf/koishi/4.0.0-alpha.4/js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
-```
-
-### CDN
-
-KoishiではCloudFlareを利用したCDNを利用できます。
-
-```html
-<link href="https://cdn.tmin.cf/koishi/4.0.0-alpha.4/css/bootstrap.min.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.slim.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
-<script src="https://cdn.tmin.cf/koishi/4.0.0-alpha.4/js/bootstrap.min.js"></script>
 ```
 
 ### Download
