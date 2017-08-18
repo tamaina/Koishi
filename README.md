@@ -1,5 +1,7 @@
 # Koishi
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tamaina/Koishi.svg)](https://greenkeeper.io/)
+
 [![Build Status by Travis CI](https://travis-ci.org/tamaina/Koishi.svg?branch=master)](https://travis-ci.org/tamaina/Koishi)
 [![Build status by AppVeyor](https://ci.appveyor.com/api/projects/status/b6rn5tseqbc0w3v7/branch/master?svg=true)](https://ci.appveyor.com/project/tamaina/koishi/branch/master)
 [![devDependency Status](https://david-dm.org/tamaina/Koishi/v4-dev/dev-status.svg)](https://david-dm.org/tamaina/Koishi/v4-dev?type=dev)
